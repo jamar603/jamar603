@@ -39,6 +39,17 @@ Continuer à apprendre et à progresser en tant que développeur.
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,laravel,react,mysql,git,github,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cpp,cs,python" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,symfony,react,vue,nodejs,bootstrap,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,vscode,idea,linux" />
+</p>
 
 <!--
 **jamar603/jamar603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
