@@ -9,27 +9,6 @@ des réalisations personnelles.
 
 🌐 Découvre mon portfolio : jamar603.github.io/Porfolio-jamar
 
- 🧰 Technologies et compétences
-
-- Front-end :** HTML, CSS, JavaScript
-- Back-end :** PHP, Laravel
-- Programmation :** C#, Python, Java
-- Mobile :** React Native
-- Bases de données :** MySQL, SQL
-- API :** Conception et intégration d'API REST
-- Modélisation 3D :** Modélisation et conception 3D
-- Outils :** Git, GitHub, VS Code
-
-🗂️ Mes projets
-
-Retrouve mes réalisations, mes expérimentations et mes projets de développement sur GitHub.
-
-➡️ Voir mes dépôts GitHub
-
-Pour découvrir mon parcours et mes projets présentés avec davantage de détails :
-
-➡️ Visiter mon portfolio
-
 🎯 Mes objectifs
 
 Développer des applications utiles, modernes et bien structurées.
