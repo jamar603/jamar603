@@ -48,50 +48,22 @@ Continuer à apprendre et à progresser en tant que développeur.
 
 🌐 Portfolio : https://jamar603.github.io/Porfolio-jamar/
 
-## 🏆 My GitHub Profile
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Me-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" height="40">
-</p>
-
-## 💻 Programming Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="40">
-</p>
-
-## ⚙️ Frameworks & Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40">
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="40">
-</p>
-
-## 🗄️ Database & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40">
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/jamar603">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" height="45">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32">
   </a>
   <a href="https://jamar603.github.io/Porfolio-jamar/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" height="45">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" height="32">
   </a>
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-00C7B7?style=for-the-badge&logo=code&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Open_To_Opportunities-00C853?style=for-the-badge" height="32">
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,laravel,react,mysql,git,github,vscode" />
 </p>
+
+
 <!--
 **jamar603/jamar603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
