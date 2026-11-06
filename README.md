@@ -47,6 +47,9 @@ Continuer à apprendre et à progresser en tant que développeur.
 
 🌐 Portfolio : https://jamar603.github.io/Porfolio-jamar/
 
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
+![JavaScript](https://img.shields.io/badge/JavaScript-Projects-yellow?logo=javascript)
+![Laravel](https://img.shields.io/badge/Laravel-Developer-red?logo=laravel)
 <!--
 **jamar603/jamar603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
