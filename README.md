@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="1672" height="941" alt="profile" src="https://github.com/user-attachments/assets/9e0d585b-b9e4-45d2-809e-3f54bbfb7c67" />
+  <img src="<img width="1672"profile.png" />
 " width="100%" alt="Jamar Carty - Full Stack Developer">
 </p>
 
