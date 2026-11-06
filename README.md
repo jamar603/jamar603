@@ -24,33 +24,9 @@ Continuer à apprendre et à progresser en tant que développeur.
 
 🌐 Portfolio : https://jamar603.github.io/Porfolio-jamar/
 
-<div align="center">
-  <a href="https://github.com/jamar603">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32">
-  </a>
-  <a href="https://jamar603.github.io/Porfolio-jamar/">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" height="32">
-  </a>
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-00C7B7?style=for-the-badge&logo=code&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Open_To_Opportunities-00C853?style=for-the-badge" height="32">
-</div>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,laravel,react,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cpp,cs,python,laravel,symfony,react,vue,nodejs,bootstrap,tailwind,mysql,postgres,mongodb,git,github,docker,vscode,idea,linux&perline=25" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,cpp,cs,python" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,symfony,react,vue,nodejs,bootstrap,tailwind" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,vscode,idea,linux" />
-</p>
-
 <!--
 **jamar603/jamar603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
