@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/github-banner.png" width="100%" alt="Jamar Carty - Full Stack Developer">
+</p>
+
 👋 Salut, moi c’est Jamar Carty !
 
 💻 Développeur Full Stack | BTS SIO — SLAM
