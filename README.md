@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="<img width="1672"profile.png" />
-" width="100%" alt="Jamar Carty - Full Stack Developer">
-</p>
 
 👋 Salut, moi c’est Jamar Carty !
 
