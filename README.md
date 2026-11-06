@@ -21,9 +21,6 @@ Réaliser des projets créatifs et interactifs.
 
 Continuer à apprendre et à progresser en tant que développeur.
 
-📫 Me retrouver
-
-💻 GitHub : @jamar603
 
 🌐 Portfolio : https://jamar603.github.io/Porfolio-jamar/
 
